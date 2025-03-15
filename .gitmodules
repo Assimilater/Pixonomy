@@ -1,0 +1,15 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:Pixonomy/pixonomy-core.git
+[submodule "desktop"]
+	path = desktop
+	url = git@github.com:Pixonomy/pixonomy-desktop.git
+[submodule "plugins/webserver"]
+	path = plugins/webserver
+	url = git@github.com:Pixonomy/pixonomy-plugins-webserver.git
+[submodule "plugins/self-sync"]
+	path = plugins/self-sync
+	url = git@github.com:Pixonomy/pixonomy-plugins-self-sync.git
+[submodule "plugins/cloud-sync"]
+	path = plugins/cloud-sync
+	url = git@github.com:Pixonomy/pixonomy-plugins-cloud-sync.git
